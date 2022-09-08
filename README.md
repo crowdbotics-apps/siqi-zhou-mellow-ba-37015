@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-privacy-policy](screens/privacy-policy)
 - [terms-and-conditions]()
 - [django-social-auth](backend/modules)
+- [react-native-social-login](modules/social-login)
 
 # Getting started: Frontend
 
