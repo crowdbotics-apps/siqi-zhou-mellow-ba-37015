@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-calendar](screens/appointment-calendar)
 - [screen-privacy-policy](screens/privacy-policy)
 - [terms-and-conditions]()
+- [django-social-auth](backend/modules)
 
 # Getting started: Frontend
 
