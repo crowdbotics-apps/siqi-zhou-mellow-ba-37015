@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-profile](screens/profile)
 - [react-native-login](modules/login)
 - [screen-add-card-details](screens/add-card-details)
+- [screen-payment-subscriptions](screens/payment-subscription)
 
 # Getting started: Frontend
 

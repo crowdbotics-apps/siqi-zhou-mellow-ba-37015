@@ -24,6 +24,7 @@
     "@screens/add-card-details": "file:./screens/add-card-details/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/notifications": "file:./screens/notifications/",
+    "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/settings": "file:./screens/settings/",
