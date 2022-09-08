@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/login": "file:./modules/login/",
+    "@modules/payments": "file:./modules/payments",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/splash": "file:./modules/splash/",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
@@ -28,7 +29,9 @@
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/settings": "file:./screens/settings/",
+    "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",
+    "babel-plugin-import-glob": "^2.0.0",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
     "react-native": "0.64.0",
