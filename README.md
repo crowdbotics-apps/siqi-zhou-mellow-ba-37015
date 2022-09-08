@@ -66,7 +66,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-splash](modules/splash)
 - [screen-notifications-list](screens/notifications)
 - [screen-settings](screens/settings)
-- [screen-account-settings](screens/account-settings)
 - [screen-profile](screens/profile)
 - [react-native-login](modules/login)
 - [screen-add-card-details](screens/add-card-details)
