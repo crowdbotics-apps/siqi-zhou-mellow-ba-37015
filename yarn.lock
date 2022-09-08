@@ -1349,6 +1349,9 @@
 "@screens/settings@file:./screens/settings":
   version "1.0.0"
 
+"@screens/settings@file:./screens/settings/":
+  version "1.0.0"
+
 "@screens/support-send-feedback@file:./screens/support-send-feedback":
   version "1.0.0"
 
