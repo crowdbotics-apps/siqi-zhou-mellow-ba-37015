@@ -1329,9 +1329,6 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/appointment-calendar@file:./screens/appointment-calendar/":
-  version "1.0.0"
-
 "@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
@@ -1342,6 +1339,9 @@
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
