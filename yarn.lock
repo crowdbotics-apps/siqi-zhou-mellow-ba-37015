@@ -1263,7 +1263,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/account-settings@file:./screens/account-settings/":
+"@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
@@ -1273,6 +1273,9 @@
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
